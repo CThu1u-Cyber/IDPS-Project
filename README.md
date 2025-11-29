@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 Project consists of a simple Python script demonstrating a **Denial of Service (DoS)** attack via **Memory Exhaustion** and an accompanying Intrusion Detection/Prevention System designed to detect, log, and automatically terminate the malicious process.
-This project was developed as a proof-of-concept for a college (Cloud Security) course to practically explore system monitoring and automated threat response.
+This project was developed as a proof-of-concept for a college (Cloud Security) course to practically explore system monitoring and automated threat response. The project can run on both Host and Docker containers.
 <br />
 
 
