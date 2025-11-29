@@ -55,7 +55,7 @@ The project is running. Just observe the IDPS detection output until completion.
 <br />
 <br />
 You can also open the logs and watch alerts in real time. ** Recommend opening in VSCode for color labels**<br/>
-<img src="images/idpsfinished.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/ram.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Final Output. The script should have identified the malicious process using up the ram and handle it accordingly. Since this is a mock securit solution, the script will continue monitoring memory until manual termination.<br/>
